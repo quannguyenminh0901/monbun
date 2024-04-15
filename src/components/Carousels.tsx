@@ -1,8 +1,8 @@
 import Carousel from 'react-bootstrap/Carousel';
 import Image from 'next/image';
-import Mon from '@/assets/images/mon1.jpg'
-import Bun from '@/assets/images/q1.jpg'
-import D from '@/assets/images/25th11.jpg'
+import Mon from '../../public/next.svg'
+import Bun from '../../public/next.svg'
+import D from '../../public/next.svg'
 
 function Carousels() {
     return (
