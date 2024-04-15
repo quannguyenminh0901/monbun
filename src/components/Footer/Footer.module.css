@@ -1,0 +1,5 @@
+.wrapper {
+    background-color: rgb(249 168 212) !important;
+    display: flex;
+    justify-content: center;
+}
